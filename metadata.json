@@ -1,0 +1,5 @@
+{
+  "name": "Fantasy Football EFP Calculator",
+  "description": "An advanced tool for data engineers and sports analysts to compute Expected Fantasy Points (EFP) for the next gameweek. It features a simulated Python script environment, detailed EFP breakdowns, and AI-powered player analysis using the Gemini API.",
+  "requestFramePermissions": []
+}
